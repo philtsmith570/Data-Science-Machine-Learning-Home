@@ -1,7 +1,9 @@
 # Data Science and Machine Learning
-## Course work and personal projecs
-## Philip T. Smith
-
+##
+## Course work and personal projects
+##
+### Philip T. Smith
+##
 
 ## Introduction
 This repo contains links to my coursework and personel projects. 
