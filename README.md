@@ -1,7 +1,7 @@
 # Data Science and Machine Learning
 ## Course work and personal projecs
 ## Philip T. Smith
-Repository for base README.md to direct to coursework and personal projects 
+
 
 ## Introduction
 This repo contains links to my coursework and personel projects. 
