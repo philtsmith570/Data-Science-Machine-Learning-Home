@@ -1,8 +1,6 @@
-# Data Science and Machine Learning
-##
+## Data Science and Machine Learning
 Course work and personal projects for Phil Smith
 ##
-
 ## Introduction
 This repo contains links to my coursework and personel projects. 
 ## Coursework 
@@ -18,6 +16,5 @@ This repo contains links to my coursework and personel projects.
         - [Seaborn - Visualizing Linear Regressions](https://github.com/philtsmith570/Exploratory-Data-Analysis_and_Visualizations/tree/master/Seaborn%20-%20Visualizing%20Linear%20Regressions/seaborn-linear_reg.py)
         - [Seaborn - Tutorial (Pokemon)](https://github.com/philtsmith570/Exploratory-Data-Analysis_and_Visualizations/blob/master/Seaborn%20Tutorial/sns_tutorial1.py)
   - [Statistics](https://github.com/philtsmith570/Exploratory-Data-Analysis_and_Visualizations/blob/master/README.md)
-     - Statistics
         - [US Murder Rate Statistics - Personal](https://github.com/philtsmith570/Statistics/blob/master/States_Murder_Rate-Variability/StateMurderRate.py)
 
