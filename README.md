@@ -11,5 +11,5 @@ This repo contains links to my coursework and personel projects.
   - [Linear Regression - Lazy Programmer](https://github.com/philtsmith570/Linear-Regression-Lazy-Programmer/blob/master/README.md)
 
 ## Personal Projects
-  - [Exploratory Data Analysis & Visualization](https://github.com/philtsmith570/Exploratory-Data-Analysis_and_Visualizations/README.md)
+  - [Exploratory Data Analysis & Visualization](https://github.com/philtsmith570/Exploratory-Data-Analysis_and_Visualizations/blob/master/README.md)
 
