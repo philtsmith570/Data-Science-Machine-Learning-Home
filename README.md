@@ -18,6 +18,9 @@ This repo contains links to my coursework and personal projects.
    - ML & Data Science Libraries (jupyter notebooks)    Detailed tutorials of each library
         - [NumPy](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/NumPy.ipynb)
         - [Pandas](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/Pandas.ipynb)
+        - [SciKit-Learn](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/Scikit-learn.ipynb)
+        - [NLTK](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/NLTK.ipynb)
+        - [Matplotlib](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/Matplotlib.ipynb)
         - [Seaborn](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/Seaborn.ipynb)
    - Statistics - Personal projects, examples, tests
       - [Statistics](https://github.com/philtsmith570/Statistics/blob/master/README.md)
