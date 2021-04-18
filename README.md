@@ -17,6 +17,10 @@ This repo contains links to my coursework and personal projects.
         - [Seaborn - Tutorial (Pokemon)](https://github.com/philtsmith570/Exploratory-Data-Analysis_and_Visualizations/blob/master/Seaborn%20Tutorial/sns_tutorial1.py)
 - ML & Data Science Libraries (jupyter notebooks)
         - [NumPy](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/NumPy.ipynb)
+        - [Seaborn - Tutorial (Pokemon)](https://github.com/philtsmith570/Exploratory-Data-Analysis_and_Visualizations/blob/master/Seaborn%20Tutorial/sns_tutorial1.py)
+- ML & Data Science Libraries (jupyter notebooks)
+        - [NumPy](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/NumPy.ipynb)
+
 - Statistics - Personal projects, examples, tests
       - [Statistics](https://github.com/philtsmith570/Statistics/blob/master/README.md)
         - [US Murder Rate Statistics - Personal](https://github.com/philtsmith570/Statistics/blob/master/States_Murder_Rate-Variability/StateMurderRate.py)
