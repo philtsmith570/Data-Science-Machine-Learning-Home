@@ -15,7 +15,8 @@ This repo contains links to my coursework and personal projects.
      - Visualizations
         - [Seaborn - Visualizing Linear Regressions](https://github.com/philtsmith570/Exploratory-Data-Analysis_and_Visualizations/tree/master/Seaborn%20-%20Visualizing%20Linear%20Regressions/seaborn-linear_reg.py)
         - [Seaborn - Tutorial (Pokemon)](https://github.com/philtsmith570/Exploratory-Data-Analysis_and_Visualizations/blob/master/Seaborn%20Tutorial/sns_tutorial1.py)
-   - ML & Data Science Libraries (jupyter notebooks)    Detailed tutorials of each library
+   - ML & Data Science Libraries (jupyter notebooks)    
+   - Detailed tutorials of each library
         - [NumPy](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/NumPy.ipynb)
         - [Pandas](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/Pandas.ipynb)
         - [SciKit-Learn](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/Scikit-learn.ipynb)
