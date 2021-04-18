@@ -20,7 +20,9 @@ This repo contains links to my coursework and personal projects.
            - [NumPy](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/NumPy.ipynb)
            - [Pandas](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/Pandas.ipynb)
            - [SciKit-Learn](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/Scikit-learn.ipynb)
-           - [NLTK](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/NLTK.ipynb)
+           - [Matplotlib](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/Matplotlib.ipynb)
+           - [SciPy](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/Scipy.ipynb)
+           - [StatsModels](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/Statsmodels.ipynb)
            - [Matplotlib](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/Matplotlib.ipynb)
            - [Seaborn](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/Seaborn.ipynb)
    - Statistics - Personal projects, examples, tests
