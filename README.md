@@ -16,7 +16,7 @@ This repo contains links to my coursework and personal projects.
         - [Seaborn - Visualizing Linear Regressions](https://github.com/philtsmith570/Exploratory-Data-Analysis_and_Visualizations/tree/master/Seaborn%20-%20Visualizing%20Linear%20Regressions/seaborn-linear_reg.py)
         - [Seaborn - Tutorial (Pokemon)](https://github.com/philtsmith570/Exploratory-Data-Analysis_and_Visualizations/blob/master/Seaborn%20Tutorial/sns_tutorial1.py)
 - ML & Data Science Libraries (jupyter notebooks)
-        - [NumPy](https://github.com/philtsmith570/ipython-notebooks)
+        - [NumPy](https://github.com/philtsmith570/library-examples/blob/main/notebooks/libraries/NumPy.ipynb)
 - Statistics - Personal projects, examples, tests
       - [Statistics](https://github.com/philtsmith570/Statistics/blob/master/README.md)
         - [US Murder Rate Statistics - Personal](https://github.com/philtsmith570/Statistics/blob/master/States_Murder_Rate-Variability/StateMurderRate.py)
